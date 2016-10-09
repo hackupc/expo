@@ -1,6 +1,6 @@
 import csv, random
 
-table_list = ["A6E01 - 1", "A6E01 - 2", "A6E01 - 3"]
+table_list = ["A5101 - %i" % i for i in range(1,50)]
 expo_list = ["1", "2"]
 
 #get submissions from csv
