@@ -38,6 +38,7 @@
     <div class="search_container">
       <input class="search" type="search" placeholder="Filter by sponsor prize, project name, category or whatever" id="filter"/>
     </div>
+    <p>Tables from 1 to 22 will be located in A6101, 23 to 45 in A5101.</p>
     <table id="expoTable">
       <thead>
         <tr>
@@ -49,7 +50,7 @@
       <tbody class="list">
         {{#data}}
           <tr>
-            <td class="number">E: {{expo}} T: {{table}}</td>
+            <td style=class="number">E: {{expo}} T: {{table}}</td>
             <td class="name"><a href="{{{link}}}" target="_blank">{{project}}</a></td>
             <td class="prize">{{sponsors}}</td>
           </tr>
