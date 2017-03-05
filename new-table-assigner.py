@@ -1,6 +1,6 @@
 import csv, random
 
-table_list = [i for i in range(1,120)]
+table_list = [i for i in range(1,95)]
 expo_list = ["1"]
 
 #get submissions from csv
@@ -21,14 +21,14 @@ with open(input_path, newline='') as csvfile:
     free_tables = table_list[:]
     print(table_list)
     for row in submissions_reader:
-        print(row)
-        table = random.randint(0, len(free_tables)-1)
+        print(row[title_col])
+        table = random.choice(free_tables) #(0, len(free_tables)-1)
         full.append(row)
         gavel.append({'project': row[title_col], 'location': table, 'description':
         row[description_col][:200]})
         # complete_list[-1]["expo"] = expo_list[expo]
-        full[-1]['table'] = table_list[table]
-        del free_tables[table]
+        full[-1]['table'] = table
+        free_tables.remove(table)
 
 # write full file (for expo website)
 
