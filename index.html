@@ -38,10 +38,9 @@
     <div class="search_container">
       <input class="search" type="search" placeholder="Filter by sponsor prize, project name, category or whatever" id="filter"/>
     </div>
-    <p>Demo fair will be at A4 First floor. < CHANGED
+    <p>IMPORTANT: Demo fair will be at A4 First floor.
     <br><b>Legend</b>
-    <br>E -> Expo: <b>1</b> starting from 10:30; <b>2</b> starting at 12:30
-    <br>T -> Table</p>
+    <br>T -> Table number</p>
     <table id="expoTable">
       <thead>
         <tr>
@@ -53,7 +52,7 @@
       <tbody class="list">
         {{#data}}
           <tr>
-            <td style=class="number">E: {{expo}} T: {{table}}</td>
+            <td style=class="number">T: {{table}}</td>
             <td class="name"><a href="{{{link}}}" target="_blank">{{project}}</a></td>
             <td class="prize">{{sponsors}}</td>
           </tr>
@@ -88,7 +87,7 @@
 
       // CSV format: https://gist.githubusercontent.com/nealrs/510b6ab766d97b42f572/raw/92188f386410fe9ebdfdea381562a4ddff4a02b7/test.csv
 
-      Papa.parse("data/data.csv", {
+      Papa.parse("data/data_full.csv", {
         download: true,
         header: true,
         complete: function(results) {
