@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta charset='utf-8'>
-  <title>HackUPC Winter 2017 Expo</title>
+  <title>HackUPC Fall 2017 Expo</title>
 
   <!-- Meta tags to eliminate caching. I don't totally get how these work, so you might not need all of them. cribbed from: http://stackoverflow.com/questions/1341089/using-meta-tags-to-turn-off-caching-in-all-browsers-->
   <meta http-equiv="cache-control" content="max-age=0" />
@@ -26,8 +26,8 @@
   <div class="container">
     <div id="header">
       <h1>
-       <a href="http://hackupc2017w.devpost.com/" title="HackUPC Winter 2017 Expo">
-          <img src="mini-logo-w17.png" style="vertical-align:middle; width:60px; margin-right: 16px;">HackUPC Winter 2017
+       <a href="http://hackupc2017f.devpost.com/" title="HackUPC Fall 2017 Expo">
+          <img src="mini-logo-f17.jpg" style="vertical-align:middle; width:60px; margin-right: 16px;">HackUPC Fall 2017
         </a>
       </h1>
     </div>
@@ -68,7 +68,7 @@
   <br>
   <div id="footer">
 
-    <p>HackUPC Winter 2017</p>
+    <p>HackUPC Fall 2017</p>
     <p>Hackers at UPC &copy; </p>
 
     <a href="http://devpost.com"><img src="http://devpost0.assetspost.com/assets/shared/devpost_logo-646bdf6ac6663230947a952f8d354cad.svg" style="height: 30px;"></a>
@@ -92,7 +92,7 @@
 
       // CSV format: https://gist.githubusercontent.com/nealrs/510b6ab766d97b42f572/raw/92188f386410fe9ebdfdea381562a4ddff4a02b7/test.csv
 
-      Papa.parse("data/data.csv", {
+      Papa.parse("data/data_full.csv", {
         download: true,
         header: true,
         complete: function(results) {
