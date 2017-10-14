@@ -1,6 +1,6 @@
 import csv, random
 
-table_list = [i for i in range(1,95)]
+table_list = [i for i in range(1,100)]
 expo_list = ["1"]
 
 #get submissions from csv

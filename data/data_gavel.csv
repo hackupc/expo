@@ -1,0 +1,619 @@
+project,location,description
+HackSat,32,"What it does
+
+HackSat consists of a prototype for a CubeSat blueprint which will allow anyone who wants to do any experimentation up in outer space to avoid worrying about how to send data or how to p"
+Assist Me,2,AssistMe representa una aplicació autònoma que romandrà en marxa en segon pla a partir del moment en el qual l'usuari faci la instal·lació i configuració d'aquesta. La avantatge d'aquesta app es basa 
+Whale Protection,13,"Inspiration
+
+We wanted to create an application that would help people suffering from depression to cope with their condition. 
+
+What it does
+
+The application analyses the posts user shares on Faceboo"
+UPCoin,85,"Inspiration
+
+Actually, several towns in Europe use a property coin for generate a community advantages. Barcelona is trying to implement a town currency.
+This cases help us to transform UPC Campus in "
+groovify,25,"Inspiration
+
+We realised our original project was out-of-scope.
+
+What it does
+
+It makes Facebook nice.
+
+How we built it
+
+StackOverflow.
+
+Challenges we ran into
+
+Chrome Extension documentation is garba"
+ChATURAT,74,"Inspiration
+
+How can we create a safe environment for teenagers to enjoy their digital experience yet avoid releasing key aspects that can lead to harassment? As kids, we often had to learn online les"
+ReportEs,63,"ReportEspaña
+
+ReportEspaña is an iOS application that uses crowd-sourcing and geo-fencing to keep people safe in the event of a crisis.
+
+How it works?
+
+You can use ReportEspaña to identify danger area"
+eink.news,19,"Inspiration
+
+We take a 45 minute train every morning and read news sites and blogs like Hacker News. We really like the feeling of the ebook and we thought it would be awesome to combine the best of b"
+AmISafe,10,"Inspiration
+
+Safety above everything!
+
+What it does
+
+Notifies the user whenever news appear according to specific tags previously provided
+
+How I built it
+
+Used JavaScript to render everything around "
+GIF Palette,30,"Inspiration
+
+//TODO
+
+What it does
+
+How I built it
+
+Challenges I ran into
+
+Accomplishments that I'm proud of
+
+What I learned
+
+What's next for Gif Palette
+"
+Car AI 2,88,"Car AI 2
+
+AI Car AI
+
+We have worked with a genetic algorithm which used neural networks in order to train a driving algorithm to get a car through a virtual circuit.
+"
+Tensorflow Fun,51,"I was just playing around a bit with Tensorflow
+"
+1Sec,68,"Inspiration
+
+The idea is coming from The Chef movie. When you want to remember your trip, your events through out the year.
+
+What it does
+
+Takes a second long video everyday for a year. And combines t"
+Crowd.io,45,"Crowd.io
+
+The main goal of this application is to provide immediate support for people who are in dangerous situations for which special services, such as the police or medical support, may not arrive"
+Chromelexa,36,"Inspiration
+
+We wanted to do something interesting with Alexa, so we decided to make a skill. We noticed that while you can use Alexa to stream movies and music to your TV, you can't control your comp"
+Cryptobot,95,"Inspiration
+
+Learning about blockchain and cryptocurrencies this idea came to my mind.
+
+What it does
+
+It shows you data about exchanges and more when you ask to the bot.
+
+How I built it
+
+I built it wi"
+filo : findthelost,21,"Inspiration
+
+What inspired me to do this coursework was my university! This project is in fact very similar to something we are required to do for uni, but I thought this could be a cool project to ta"
+MAKE THE DIFFERENCE,28,"Inspiration
+
+Change.org and similar pages
+
+What it does
+
+It allows the users of the platform to identify themselves by means of an identity document and so they can create proposals and vote in favor "
+Twittola,41,"We tried to develop other projects but unfourtunately we didn't succeed, so we thought about programming a webpage. Then we heard about Everis, who kindly ofered us his API. 
+
+This API consists of two"
+Spy a Guy,58,"Inspiration
+
+We have shared a number of ideas related to geolocation and sharing. In the end this idea has taken shape and we decided to do it
+
+What it does
+
+The application is basically sharing a cod"
+StarMotion,61,"Inspiration
+
+Wishing to build some graphic applications with WebGL or three.js, and having seen that MLH Hardware Lab had some LeapMotions, I decided to build a 'endless running game' controlled with "
+NERVE,60,"Inspiration
+
+We love to Karaoke on Saturday night, but our friend Pau is going to live with his girlfriend in the Netherlands. Because of this, we need a way to Karaoke with him although he's 1.535,5 "
+Carthumbing,76,"We wanted to learn some golang and react native, and try to solve the esri challenge.
+We did an app to match hitchhikers with drivers.
+In the future we want to match people according to their interest"
+inclusivewords.com,39,"Inspiration
+
+To get people to use gender neutral language and support communities that welcome all people, without using language that might exclude some. 
+
+What it does
+
+Acts as a reference tool and "
+Trump attack,44,"Inspiration
+
+We were bored of traditional games and we want to be different of the rest of the participants and we decided to make a funny hack.
+
+What it does
+
+We make our dream real, we can drive the"
+Emaption,4,"Inspiration
+
+We are very interested in Artificial Intelligence and analysing data so we thought that we could leverage the Everis Moriarty API to understand the emotions that people express over the s"
+MotoCare,20,"INSPIRATION
+
+Traffic accidents are frequent every day and although it would be over-optimistic pretending to achieve zero victims, we can do our best to decrease human loses. We’ve decided to focus on"
+NeuName,24,"Inspiration | What it does
+
+A human being dwelling a life of a deep solitude, a journey of himself constantly striving to find a fulfilment amongst other so alike yet so distant. The discrepancies dif"
+TTTiPoT,53,"Inspiration
+
+We were all keen to learn new web development technologies alongside Twitter's Streaming API.
+
+What it does
+
+
+Takes a stream of random tweets using Twitter Streaming API
+Analyses the imag"
+VisionWare,15,"VisionWare
+
+Hackathon HackUPC project
+
+This is unique application that intends to help people with vision impedance to find items in the room. 
+
+Idea
+
+Idea is that user should be able to find exact lo"
+"Medbay, the AI-powered medical kit",82,"Inspiration
+
+After attending this year’s MWC we realized that connected living can be quite a challenge for the elder. This is why we have focused the development of our hack on building what could be"
+Bind it,5,"Inspiration
+
+We wanted to develop a game with a cool core functionality.
+
+What it does
+
+It works and it is fun.
+
+How I built it
+
+With Unity and lots of redbull
+
+Challenges I ran into
+
+Git, Pathfinding"
+KarmaNews Telegram bot,96,"Inspiration
+
+Sometimes, reading news is a chore. You can get very dire views of the world in the moments you less need them. For those times, KarmaNews gives you back some faith in humanity.
+
+What it "
+Emergency-helper,75,"Inspiration
+
+It is actually sad that after been to soo many hackathons, nobody never proposed something like that. When I heared the idea I knew it that I had to do it
+
+What it does
+
+It automatically "
+IonicFIB,26,"IonicFIB
+
+Ionic FIB is an application made with the Ionic v2 Framework. And as a result, it gives an Android compatible application. As it is a webapp, it also can be executed on Web.
+
+The main goal o"
+Glitch Grid,73,"Inspiration
+
+I thought in a game with simple graphics and gameplay. The first idea was something like a cave exploration, but ended being something different. 
+The meaning of the movements may be thou"
+Signature Conditions,33,"Inspiration
+
+The good old ""I've read and accept the terms of service"" doesn't cut it anymore. 
+
+A company needs to trust their users to provide a better service, and that simply isn't possible nowaday"
+Leap Pong,72,"Inspiration
+
+Since the last Hackathon we participated in October, we wanted to learn Unity, so we came up with an idea for a simple game to learn the basics.
+
+What it does
+
+It's a 2D Pong version (mea"
+WordWeaver,93,"Inspiration
+
+The web http://www.zompist.com/gen.html served as the main inspiration for this project, since this project's main goal is to port its features to an Android app for more comfortable mobi"
+CareBot,43,"CareBot
+
+CareBot is a chatbot software for answer three types of situations: cuts, sprains and bruises. Shows to the user what to do and if it is needed shows the near hospitals.
+
+Screenshot
+
+
+
+Usage
+"
+twotter,27,"Inspiration
+
+Our greatest inspiration is our need to learn.
+
+What it does
+
+It gives you an opportunity to write what you think and share it with the world.
+
+How we built it
+
+We used Python with flask,"
+BringBread,69,"Inspiration
+
+Our lovely moms always reminding us to bring stuff when coming home, especially bread
+
+What it does
+
+This app tracks your gps position whenever someone in your house makes an alert needin"
+partyDonator,84,"Inspiration
+
+We came to the hackathon with only one Alexa under our arms and no ideas in our heads. Well, we had a bunch of ideas, but couldn't decide on which we liked the most. We wanted to take up "
+AI Barney,48,"AI Barney
+
+
+
+AI Barney is an iOS app that helps people to get know each other with adaptive tips during a conversation. To achieve that we intersect users' Facebook accounts. 
+
+Algorithm keypoints
+
+
+S"
+Everyday Hero,71,"Inspiration
+
+We heard that the rate of people gone missing have risen lately and we wanted to do something about it. Thinking about what we could do to help, we also remembered about the multiple occa"
+HackUPC2017,91,"HackUPC2017
+"
+Safe Me,65,"Inspiration
+
+Safe Me inspiration came from the challenge sponsor Between Technology set up. We wanted to create a useful app that could help people on difficult situations in a different way Alpify (f"
+Pinscape,67,"Inspiration
+
+We wanted to play around with Estimote proximity beacons, namely, doing a physical world quest where a person would use a smartphone to connect to beacons at a specific location and then "
+Vibes,79,"Inspiration
+
+Our main aim was to use AI with a social purpose. We wanted to get close to people in a simple way, so we thought that we could approach an AI utility to something as common as Twitter. 
+"
+EducApp,98,"Inspiration
+
+We knew from personal experience that children (especially those between the ages of 3 and 9) are extremely curious and like to ask ""What is this? And what is that?"" a lot. They're also v"
+RescueMe,6,"Inspiration
+
+We are four friends who enjoy outdoor activities (horse riding, climbing, hiking and adventure sports in general). When we do these activities we feel that in these situations we don't ha"
+Twin NP Pong,70,"Inspiration
+
+The PS Vita could have been one of the greatest handheld consoles ever. Despite the fact that it never sold quite well and had a hardcore niche, Sony made few efforts to manage this situa"
+Lazying fun,34,"Inspiration
+
+We have received some lasers from china that we bought a while ago and we already knew about pov led displays, so we wanted to try to reach further with lasers. We want to create screens "
+Lightspeed Study,11,"Inspiration
+
+It was a late night, during exams periods, it came to me. I had spent over the last three days reading a boring, far too long and far to unspecific, materials sciences book. I could have "
+MISPLACED,37,"Inspiration
+
+Fun, Learning & Mazes!
+
+What it does
+
+Interestig
+
+How we built it
+
+With Unity
+
+Challenges we ran into
+
+Deploying to Android
+
+Accomplishments that we're proud
+
+Gaphicaly very pleasing. All"
+Air-Piano,12,"Air-Piano
+
+Our Air Piano is the first approach to the idea that we call the ""universal instrument"" (a device that let the users play the music that they want without learning every time how to play an"
+besafe-app,83,"
+  
+
+
+BeSafe App
+
+BeSafe, the app that will secure your walks anywhere you go.
+
+Simply introduce where you go, and the email of the person you want to notify if you get far of your way.
+
+Inspiration
+
+"
+Cortiris,99,"Inspiration
+
+Our project was inspired by other Assistants in the market like Siri, Cortana and Google assistant, and we decided we would try to make a similar one.
+
+What it does
+
+Cortiris helps you to"
+Dubzooka,97,"Dubzooka
+
+Dubzooka
+
+Introduction
+Experiments with parametric and directional speaker systems have been going on since the early 1960s. Ultrasonic sound has much smaller wavelengths than regular audibl"
+aimalaif,80,"Inspiration
+
+Provide a solution to people and to public emergency services to analyze in realtime whats happening in a catastrophe.
+
+What it does
+
+Realtime GPS tracking of the victims. Persons finder,"
+EventLift,87,"Inspiration
+
+Multiple times we have wanted to attend an event, but had no way to reach it. For every one of these times, someone had one empty spot in their car. Connecting people attending the same e"
+SmartFood,31,"Inspiration
+
+We were waiting for the waiter in a restaurant the day before to the hackathon and it came to our minds... How could we ease and speed up the process of taking the orders? Taking them fro"
+projectNSA,55,"Inspiration
+
+We want to make some software to prototype and show the potential and dangerous of using internet in a narcissist and exhibitionist way. We focused on the twitter generated data.
+
+
+what i"
+On the Street,89,"Inspiration
+
+Have you ever seen a street performer you liked but did not have the chance to show your appreciation? 
+Here is your chance to not leave this people forgotten.
+
+What it does
+
+You can find"
+Awhere,50,"Inspiration
+
+In such a busy environment nowadays, no-one wants to waste more time on mobile phone or computers.
+However, these are getting insanely powerful, having already become an extension to our "
+Alife,66,"What it does
+
+Save lifes thanks to the GPS location and the new technologies available.
+
+How we built it
+
+We have built an iOS application in which the user can notify in case he is injured, specifyin"
+Runner,94,"Inspiration
+
+This game is inspired by hackers running through the university halls in the HackUPC.
+
+What it does
+
+Endure the maximum possible time avoiding certain obstacles
+
+How we built it
+
+Through "
+Orus: An easy and fast way to keep you updated,52,"Inspiration
+
+It is particullarly necessary for us Hackers to keep track of the new tendencies that appear every day.
+Unfortunatelly due to our jobs and live routines it is not always easy to accomplis"
+Time Travelers,90,"Inspiration
+
+We wanted to make a game for the Samsung Gear VR as one member has recently adquired one.
+
+What it does
+
+It's a VR FPS game that consists in shooting enemy bullets to avoid being defeated"
+Harambot,9,"harambot
+
+Simple harassment detector bot for Facebook -- Developed at HackUPC Winter 2017
+
+Within the code of conduct of MLH there is a section that is highlighted whenever there is a hackathon: the f"
+TeamHack,17,"Inspiration
+
+We were aiming for an easy solution to avoid stress organizing teams. We felt that an easy tool to send links, share code and save text was perfect, so we built TeamHack.
+
+What it does
+
+T"
+FiY - Find it Yourself,29,"Inspiration
+
+IoT and change the way you shop
+Our inspiration comes from the idea of a market where the shopping process is easier thanks to the IoT. 
+
+What it does
+
+Our app is map based. What does it "
+Room condition sensors that help to sleep better,54,"Inspiration
+
+https://github.com/rimskiynikita/sleep_conditions
+git@scalingo.com:sleep-more.git
+
+What it does
+
+Our product is a device that tracks room conditions and help people maintain them on the g"
+Cookitapp(v1.0),8,"Inspiration
+
+We wanted to create an app which would combine the searching resources that an API would provide us with optimal preference-based filter algorithms using artificial intelligence. Moreover"
+rePebble,49,"Inspiration
+
+We are frequent users of reddit platform and we enjoy reading some jokes or stories every time we have a free minute. Pebble smartwatch is a perfect hardware platform to integrate reader "
+FeelShare,77,"Inspiration
+
+After seeing the capabilities of the new Microsoft cognitive services API, we thought that build an app with this technology could be a good idea and so we decided to do an App with react"
+Pear,35,"Inspiration
+
+We wanted to know exactly where our money goes when we donate to charity, so we designed a transparent platform where people can directly fund specific causes, and to avoid the inherent c"
+BioScan,86,"Inspiration
+
+We wanted to help people (and ourselves) indentify the healthy/unhealthy products in a very simple and easy way.
+
+What it does
+
+It scans the barcodes of the products and tells you if a pr"
+Tagit,40,"Inspiration
+
+We wanted to be able to comment on every webpage.
+
+What it does
+
+It gives you the freedom to post a comment on any webpage.
+
+How we built it
+
+Using HTML5+CSS and JS, backed up with fireba"
+EnterwaveMe,59,"Inspiration
+
+Random internet memes
+
+What it does
+
+Et mostra un video de youtube de la mateixa durada que el temps que poses al micro.
+
+How we built it
+
+We used some hardware to detect the microwave se"
+DEMM - Dynamic Emergency Management Mapping,14,"Inspiration
+
+The opportunity to be able to contribute to our society by creating a tool with life saving capabilities.
+
+What it does
+
+It's a platform meant to be integrated into smartphones which woul"
+RGBArchitect,42,"HackUPC 2017 Winter - Computer Vision, Unity, Game Dev
+
+About Us
+
+We are a pair of math students at UPC who are in love with coding. Last HackUPC was our first and it was A BLAST, so we were more than"
+Smart Eco Shower,46,"Inspiration
+
+nothomf What it does
+
+How I built it
+
+Challenges I ran into
+
+Accomplishments that I'm proud of
+
+What I learned
+
+What's next for Smart Eco Shower
+"
+emergencymap.tech,18,"Inspiration
+
+Between Challenge
+
+What it does
+
+It displays all the geo-localizad emergency signals users have sent via their Android phones, in a web front-end. You can even choose to see all the distr"
+uCode Cluster,81,"Inspiration
+
+We have made the Between challenge:
+"" Smartlocation to save lives
+Virtually every person has a smartphone with GPS technology which can be a very useful tool to save lives in emergency si"
+TaskBot,57,"TaskBot - HackUPC Winter 2017
+
+TaskBot is a Telegram Task Manager Chatbot that keeps a list with your stuff.
+
+Just tell him what do you have to do and he will keep track of it in a gracefully way.
+
+Hi"
+BIENE,92,"Inspiration
+
+http://biene.tech
+
+BIENE
+
+What it does
+
+IT BIENES THE HELL OUT OF BIENE. But srsly it is a flappy biene game.
+
+How we built it
+
+WITH BIENE
+
+Challenges we ran into
+
+Finding out what we are"
+Accidentally Safe,16,"Inspiration
+
+Police forces in the UK and the US has been predicting crime hotspots using machine learning on historic data. We wanted to help other emergency services such as ambulances and hospital A"
+Good=win,22,"What it is
+
+Web-based application aimed at promoting charity, volunteering and other good deeds with the help of already existing social networks.
+
+What it does
+
+After the user links their accounts in"
+TeamBuilder,56,"When we arrive this Friday at our first Hackathon, HackUPC Winter 2017, we were two couples of hackers and wanted to make a team to be four, so 
+
+What it does
+
+How we built it
+
+Challenges we ran into
+"
+Hooman,38,"We tried to do what signatureit ask, but they disapear so did not help with any doubt (we had some about their API) and they did not answer slack neither. 
+Signatureit wanted to connect their API with"
+BLAWORM,64,"Inspiration
+
+Our motivation is related to our desire to learn and meet people from other countries and have good moments
+
+What it does
+
+Our project is a platform game in 2.5D with different game modes"
+Code Dungeon,23,"Inspiration
+
+Get more people involved with coding in an engaging and fun manner!
+
+What it does
+
+Engages users by allowing them to write basic commands, move around the map and fight a boss, whilst lea"
+hackupc-image_classifier,47,"Inspiration
+
+--
+
+What it does
+
+--
+
+How I built it
+
+--
+
+Challenges I ran into
+
+--
+
+Accomplishments that I'm proud of
+
+--
+
+What I learned
+
+--
+
+What's next for hackupc-image_classifier
+
+--
+"
+Refugees_rescue,78,"Refugees_rescue
+
+This is web application for which would help refugees to connect the outer world and get support for their physical as well as mental need. :) 
+"
+SchedulerBot,1,"Inspiration
+
+Making plans with one or more friends is always a long discussion, by asking the schedule back and forth and trying to coordinate calendars. Our project improves this part of life by auto"
+SafeWhistle,7,"Inspiration
+
+We we're motivated by the Between challenge of using location technologies to save lives.
+
+What it does
+
+SafeWhistle lets you notify loved ones when you are alone and might need support. "
+Smart Charger,3,"Inspiration
+
+There are several reasons:
+
+
+A friend that studies about renewable energies told us that there is a problem with the difference in loads in the network because there are peaks in demand a"
