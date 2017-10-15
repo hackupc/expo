@@ -98,7 +98,7 @@
 
       // CSV format: https://gist.githubusercontent.com/nealrs/510b6ab766d97b42f572/raw/92188f386410fe9ebdfdea381562a4ddff4a02b7/test.csv
 
-      Papa.parse("data/data_full.csv", {
+      Papa.parse("data/data_full.csv?date=" + new Date().getTime(), {
         download: true,
         header: true,
         complete: function(results) {
